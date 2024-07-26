@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "What is the return policy?",
+    "answer": "You can return any item within 30 days of purchase if it is in its original condition."
+  },
+  {
+    "id": 2,
+    "question": "How do I track my order?",
+    "answer": "You can track your order by logging into your account and visiting the 'Orders' section."
+  },
+  {
+    "id": 3,
+    "question": "What payment methods are accepted?",
+    "answer": "We accept Visa, MasterCard, American Express, PayPal, and Apple Pay."
+  },
+  {
+    "id": 4,
+    "question": "How can I contact customer support?",
+    "answer": "You can contact our customer support via email at support@example.com or by phone at (123) 456-7890."
+  }
+]
