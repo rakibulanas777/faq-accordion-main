@@ -60,6 +60,7 @@ body {
 
 .flex_question .flex_top {
   display: flex;
+  cursor: pointer;
   justify-content: space-between;
   align-items: center;
   gap: 10px;
